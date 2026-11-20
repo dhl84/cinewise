@@ -1,0 +1,46 @@
+# CineWise: 3D Movies from Your NAS
+
+> Watch your own 3D movie files on a giant screen, with real depth for each eye. CineWise plays side-by-side and top-bottom 3D files from the shared folder on your NAS or computer, over your home network. It finds the 3D layout of each file for you. Save a movie to the headset and watch it with no network at all. No ads, no account to create and no in-app purchases.
+
+- Price: Free
+- Headset: Meta Quest 3 only, until the Quest 3S check of docs/HEADSET_TEST.md passes. Then also Meta Quest 3S.
+- Ages: For ages 13 and up.
+- Where it is sold: The Meta Horizon Store
+- Internet: Not required. The app needs a local network to reach the NAS, and no network for saved movies. to use the app
+- Mixed reality: No. A fully virtual cinema.
+- Controls: Meta Quest Touch controllers
+- Players: Single user
+- Comfort: Comfortable
+- Language: English (United Kingdom)
+- Ads, chat and in-app purchases: None
+- Data: Your sign-in details, your movie list and your settings stay on the headset. The privacy policy lists the data that the app collects.
+- Developer: dav3studios
+
+## Features
+
+- Real 3D: each eye sees its own half of the picture
+- Five screen sizes, up to a screen that fills your view
+- Plays MKV, MK3D, MP4 and M4V files from your own NAS or computer (SMB)
+- Finds the 3D layout of each file: half or full side-by-side, half or full top-bottom
+- Pick the layout yourself, and a 3D check for each eye
+- Save movies to the headset and watch with no network
+- Common surround sound formats, mixed for the headset
+- Choose the sound track
+- No ads, no account to create and no in-app purchases
+
+## Links
+
+- [Meta Horizon Store page](https://www.meta.com/experiences/1266495573204367/): buy and install CineWise
+- [Home](https://dhl84.github.io/cinewise/)
+- [Privacy policy](https://dhl84.github.io/cinewise/privacy.html)
+- [Credits](https://dhl84.github.io/cinewise/credits.html)
+- [Help and support](https://dhl84.github.io/cinewise/support.html)
+- [Terms of use](https://dhl84.github.io/cinewise/terms.html)
+
+## More from dav3studios
+
+- [SpaceWise](https://dhl84.github.io/spacewise/): The real solar system at its true size and in true time, with eight narrated journeys.
+- [BodyWise](https://dhl84.github.io/bodywise/): A ride through the real human body, with blood cells at their real size.
+- [BeakerWise](https://dhl84.github.io/beakerwise/): 104 science experiments in biology, chemistry and physics on a virtual lab bench.
+- [EpochWise](https://dhl84.github.io/epochwise/): 45 moments of history on the real land, under the sky computed for that date.
+- [GambitWise](https://dhl84.github.io/gambitwise/): Learn chess and Go one small step at a time, with a spoken coach. Free.
