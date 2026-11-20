@@ -30,7 +30,7 @@
 
 ## Links
 
-- [Meta Horizon Store page](https://www.meta.com/experiences/1266495573204367/): buy and install CineWise
+- [Meta Horizon Store page](https://www.meta.com/experiences/1517741708079751/): buy and install CineWise
 - [Home](https://dhl84.github.io/cinewise/)
 - [Privacy policy](https://dhl84.github.io/cinewise/privacy.html)
 - [Credits](https://dhl84.github.io/cinewise/credits.html)
