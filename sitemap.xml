@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://dhl84.github.io/cinewise/</loc></url>
-  <url><loc>https://dhl84.github.io/cinewise/privacy.html</loc></url>
-  <url><loc>https://dhl84.github.io/cinewise/credits.html</loc></url>
-  <url><loc>https://dhl84.github.io/cinewise/support.html</loc></url>
-  <url><loc>https://dhl84.github.io/cinewise/terms.html</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url><loc>https://dhl84.github.io/cinewise/</loc><lastmod>2026-11-25</lastmod><image:image><image:loc>https://dhl84.github.io/cinewise/pictures/cover.png</image:loc></image:image><image:image><image:loc>https://dhl84.github.io/cinewise/pictures/1.png</image:loc></image:image><image:image><image:loc>https://dhl84.github.io/cinewise/pictures/2.png</image:loc></image:image><image:image><image:loc>https://dhl84.github.io/cinewise/pictures/3.png</image:loc></image:image><video:video><video:thumbnail_loc>https://dhl84.github.io/cinewise/video/trailer.jpg</video:thumbnail_loc><video:title>CineWise: 3D Movies from Your NAS trailer</video:title><video:description>Watch your own 3D movie files on a giant screen, with real depth for each eye. CineWise plays side-by-side and top-bottom 3D files from the shared folder on your NAS or computer, over your home network. It finds the 3D layout of each file for you. Save a movie to the headset and watch it with no network at all. No ads, no account to create and no in-app purchases.</video:description><video:content_loc>https://dhl84.github.io/cinewise/video/trailer.mp4</video:content_loc><video:duration>45</video:duration><video:publication_date>2026-11-25</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
+  <url><loc>https://dhl84.github.io/cinewise/privacy.html</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://dhl84.github.io/cinewise/credits.html</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://dhl84.github.io/cinewise/support.html</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://dhl84.github.io/cinewise/terms.html</loc><lastmod>2026-11-25</lastmod></url>
 </urlset>

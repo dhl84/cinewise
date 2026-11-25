@@ -2,7 +2,7 @@
 
 > Watch your own 3D movie files on a giant screen, with real depth for each eye. CineWise plays side-by-side and top-bottom 3D files from the shared folder on your NAS or computer, over your home network. It finds the 3D layout of each file for you. Save a movie to the headset and watch it with no network at all. No ads, no account to create and no in-app purchases.
 
-- Price: Free
+- Price: USD 3.99 in the US store. The store shows the price for your country.
 - Headset: Meta Quest 3 only, until the Quest 3S check of docs/HEADSET_TEST.md passes. Then also Meta Quest 3S.
 - Ages: For ages 13 and up.
 - Where it is sold: The Meta Horizon Store
@@ -36,11 +36,13 @@
 - [Credits](https://dhl84.github.io/cinewise/credits.html)
 - [Help and support](https://dhl84.github.io/cinewise/support.html)
 - [Terms of use](https://dhl84.github.io/cinewise/terms.html)
+- [Trailer video](https://dhl84.github.io/cinewise/video/trailer.mp4): 45 seconds, MP4
 
 ## More from dav3studios
 
-- [SpaceWise](https://dhl84.github.io/spacewise/): The real solar system at its true size and in true time, with eight narrated journeys.
+- [SpaceWise](https://dhl84.github.io/spacewise/): The real solar system at its true size and in true time, with nine narrated Journeys.
 - [BodyWise](https://dhl84.github.io/bodywise/): A ride through the real human body, with blood cells at their real size.
 - [BeakerWise](https://dhl84.github.io/beakerwise/): 104 science experiments in biology, chemistry and physics on a virtual lab bench.
 - [EpochWise](https://dhl84.github.io/epochwise/): 45 moments of history on the real land, under the sky computed for that date.
 - [GambitWise](https://dhl84.github.io/gambitwise/): Learn chess and Go one small step at a time, with a spoken coach. Free.
+- [All apps from dav3studios](https://dhl84.github.io/)
